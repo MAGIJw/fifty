@@ -15,6 +15,7 @@
 　width:360px;
 　height:280px;
 　text-align:center;
+  text-shadow:2px 2px 5px #20B2AA;
 　line-height:280px;
 　font-size:15px;
 　color:#f9c81e;
