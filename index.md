@@ -56,10 +56,8 @@
 }
 .tabcontent {
     display: none;
-    padding: 6px 12px;
-    border: 1px solid #ccc;
+    padding: 8px 12px;
     text-shadow: 2px 2px 5px blue;
-    border-top: none;
     background-color:black;
     font-family:SimHei,Microsoft YaHei;
 }
