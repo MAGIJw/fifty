@@ -78,7 +78,7 @@ table.blueTable td:nth-child(even) {
 </div>
 
 <div id="平假名" class="tabcontent">
-  <h3>平假名:用於一般書寫和印刷;模仿漢字的草書演變而來的。</h3>
+  <h3>平假名:用於一般書寫和印刷;模仿漢字的草書演變而來</h3>
 <table class="blueTable">
 <tbody>
 <tr>
