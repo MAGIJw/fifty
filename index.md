@@ -13,7 +13,7 @@
 }
 #body{
 　text-align:center;
-  text-shadow:2px 2px 5px #FFEFD5;
+  text-shadow:2px 2px 5px #F5FFFA;
 　line-height:280px;
   width: 250px;
   height: 300px;
@@ -23,10 +23,11 @@
 　background-color:#fffaf3;
 }
 .tab {
+    font-family:SimHei,Microsoft YaHei;
     overflow: hidden;
     border: 1px solid white;
     background-color: black;
-    font-family:SimHei,Microsoft YaHei;
+    text-shadow:2px 2px 5px #F5FFFA;
 }
 .tab button {
     font-family:SimHei,Microsoft YaHei;
@@ -55,7 +56,7 @@
 table.blueTable {
   border: 4px solid #FEFFFC;
   background-color: #FAFFE7;
-  height:800px;
+  height:600px;
 }
 table.blueTable td, table.blueTable th {
   border: 3px solid #F9F9F3;
