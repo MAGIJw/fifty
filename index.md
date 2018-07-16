@@ -16,7 +16,7 @@
   text-shadow:2px 2px 5px #FFEFD5;
 　line-height:280px;
   width: 250px;
-  height: 400px;
+  height: 300px;
 　font-size:15px;
 　color:#f9c81e;
 　font-family:SimHei,Microsoft YaHei;
