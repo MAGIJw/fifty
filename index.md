@@ -2,20 +2,20 @@
 <head>
 <style type="text/css">
 #header{
+  font-family:SimHei,Microsoft YaHei;
 　width:360px;
 　height:80px;
 　text-align:center;
 　line-height:80px;
 　font-size:15px;
 　color:#fffaf3;
-　font-family:SimHei,Microsoft YaHei;
 　background-color:#f9c81e;
 }
 #body{
 　text-align:center;
-  text-shadow:2px 2px 5px ;
+  text-shadow:2px 2px 4px #DDDDDD;
 　line-height:280px;
-  width: 250px;
+  width: 300px;
   height: 300px;
 　font-size:15px;
 　color:#f9c81e;
@@ -112,7 +112,7 @@ table.blueTable td:nth-child(even) {
 </tr>
 <tr>
 <td>い段</td>
-<td><span>い</span><span>i</span></td>
+<td><span>い</span>i</td>
 <td>き ki</td>
 <td>し shi</td>
 <td>ち chi</td>
