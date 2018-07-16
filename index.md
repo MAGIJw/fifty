@@ -38,13 +38,14 @@
     padding: 14px 16px;
     transition: 0.3s;
     font-size: 17px;
+    color:blue;
     
 }
 .tab button:hover {
     background-color:lightblue;
 }
 .tab button.active {
-    background-color:	#77FF00;
+    background-color:	black;
 }
 .tabcontent {
     display: none;
