@@ -115,11 +115,11 @@ a:link {
 <td>や ya</td>
 <td>ら ra</td>
 <td>わ wa</td>
-<td>ん n</td>
+<td>ん <p>n</p></td>
 </tr>
 <tr>
 <td>い段</td>
-<td><span>い</span>i</td>
+<td>い<p>i<p></td>
 <td>き ki</td>
 <td>し shi</td>
 <td>ち chi</td>
@@ -133,7 +133,7 @@ a:link {
 </tr>
 <tr>
 <td>う段</td>
-<td>う  u</td>
+<td>う  <p>u</p></td>
 <td>く ku</td>
 <td>す su</td>
 <td>つ tsu</td>
@@ -147,7 +147,7 @@ a:link {
 </tr>
 <tr>
 <td>え段</td>
-<td>え   e</td>
+<td>え<p>e</p></td>
 <td>け ke</td>
 <td>せ se</td>
 <td>て te</td>
@@ -207,7 +207,7 @@ a:link {
 <td>ヤ ya</td>
 <td>ラ ra</td>
 <td>ワ wa</td>
-<td>ン n</td>
+<td>ン <p>n</p></td>
 </tr>
 <tr>
 <td>イ段</td>
@@ -219,13 +219,13 @@ a:link {
 <td>ヒ hi</td>
 <td>ミ mi</td>
 <td></td>
-<td>リ   ri</td>
+<td>リ<p>ri</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>ウ段</td>
-<td>ウ   u</td>
+<td>ウ<p>u</p></td>
 <td>ク ku</td>
 <td>ス su</td>
 <td>ツ tsu</td>
@@ -239,7 +239,7 @@ a:link {
 </tr>
 <tr>
 <td>エ段</td>
-<td>エ   e</td>
+<td>エ<p>e</p></td>
 <td>ケ ke</td>
 <td>セ se</td>
 <td>テ te</td>
