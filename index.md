@@ -13,9 +13,9 @@
 }
 #body{
 　text-align:center;
-  text-shadow:2px 2px 5px #20B2AA;
+  text-shadow:2px 2px 5px #FFEFD5;
 　line-height:280px;
-  width: 200px;
+  width: 250px;
   height: 400px;
 　font-size:15px;
 　color:#f9c81e;
