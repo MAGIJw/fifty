@@ -13,7 +13,6 @@
 }
 #body{
 　text-align:center;
-  text-shadow:2px 2px 4px #000000;
 　line-height:280px;
   width: 300px;
   height: 300px;
@@ -25,7 +24,7 @@
 .tab {
     font-family:SimHei,Microsoft YaHei;
     overflow: hidden;
-    border: 1px solid 	#000000;
+    border: 2px solid 	#000000;
     background-color: black;
     text-shadow:2px 2px 4px #FFFFFF;
 }
