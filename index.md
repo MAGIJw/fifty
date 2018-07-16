@@ -55,14 +55,14 @@
 table.blueTable {
   border: 4px solid #FEFFFC;
   background-color: #FAFFE7;
-  height:1200px;
+  height:800px;
 }
 table.blueTable td, table.blueTable th {
   border: 3px solid #F9F9F3;
   padding: 10px 10px;
 }
 table.blueTable tbody td {
-  font-size: 23px;
+  font-size: 26px;
 }
 table.blueTable td:nth-child(even) {
   background: #D0E4F5;
