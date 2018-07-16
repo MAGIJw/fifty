@@ -8,7 +8,7 @@
 　line-height:80px;
 　font-size:15px;
 　color:#fffaf3;
-　font-weight:bold;
+　font-family:SimHei,Microsoft YaHei;
 　background-color:#f9c81e;
 }
 #body{
@@ -18,7 +18,7 @@
 　line-height:280px;
 　font-size:15px;
 　color:#f9c81e;
-　font-weight:bold;
+　font-family:SimHei,Microsoft YaHei;
 　background-color:#fffaf3;
 }
 #Footer{
@@ -28,16 +28,17 @@
 　line-height:80px;
 　font-size:15px;
 　color:#fffaf3;
-　font-weight:bold;
+　font-family:SimHei,Microsoft YaHei;
 　background-color:#f9c81e;
 }
 .tab {
     overflow: hidden;
     border: 1px solid #ccc;
     background-color: black;
+    font-family:SimHei,Microsoft YaHei;
 }
 .tab button {
-    background-color: inherit;
+    font-family:SimHei,Microsoft YaHei;
     float: left;
     border: none;
     outline: none;
@@ -45,12 +46,13 @@
     padding: 14px 16px;
     transition: 0.3s;
     font-size: 17px;
+    
 }
 .tab button:hover {
-    background-color: #ddd;
+    background-color:lightblue;
 }
 .tab button.active {
-    background-color: #ccc;
+    background-color: orange;
 }
 .tabcontent {
     display: none;
@@ -59,6 +61,7 @@
     text-shadow: 2px 2px 5px blue;
     border-top: none;
     background-color:black;
+    font-family:SimHei,Microsoft YaHei;
 }
 </style>
 </head>
