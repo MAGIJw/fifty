@@ -36,14 +36,14 @@
     padding: 12px 14px;
     transition: 0.3s;
     font-size: 17px;
-    color:#FF3EFF;
+    color:#000000;
   text-shadow:2px 2px 5px #FFFFFF;
 }
 .tab button:hover {
     background-color:#FFB3FF;
 }
 .tab button.active {
-    background-color:	#FFDD55;
+    background-color:	#C10066;
 }
 .tabcontent {
     display: none;
