@@ -32,7 +32,7 @@
 .tab button {
     font-family:SimHei,Microsoft YaHei;
     float: left;
-    border: none;
+    border:#33FFFF;
     outline: none;
     cursor: pointer;
     padding: 14px 16px;
@@ -45,7 +45,7 @@
     background-color:lightblue;
 }
 .tab button.active {
-    background-color:	black;
+    background-color:	#FFDD55;
 }
 .tabcontent {
     display: none;
