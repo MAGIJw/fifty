@@ -25,7 +25,7 @@
 .tab {
     font-family:SimHei,Microsoft YaHei;
     overflow: hidden;
-    border: 1px solid white;
+    border: 1px solid 	#000000;
     background-color: black;
     text-shadow:2px 2px 4px #FFFFFF;
 }
@@ -38,11 +38,11 @@
     padding: 14px 16px;
     transition: 0.3s;
     font-size: 17px;
-    color:blue;
+    color:#FF3EFF;
     
 }
 .tab button:hover {
-    background-color:lightblue;
+    background-color:#FFB3FF;
 }
 .tab button.active {
     background-color:	#FFDD55;
