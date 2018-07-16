@@ -56,8 +56,10 @@
     display: none;
     padding: 6px 12px;
     border: 1px solid #ccc;
-    text-shadow: 2px 2px 5px red;
+    text-shadow: 2px 2px 5px blue;
     border-top: none;
+    background-color:black;
+}
 </style>
 </head>
 <body>
