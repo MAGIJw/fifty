@@ -71,8 +71,9 @@ table.blueTable td:nth-child(even) {
 h1 {
     color: white;
 }
-.tablinks {
+a:link {
  font-family:SimHei,Microsoft YaHei;
+ color:black;
 }
 </style>
 </head>
