@@ -9,7 +9,7 @@
 　line-height:80px;
 　font-size:15px;
 　color:#fffaf3;
-　background-color:#f9c81e;
+　background-color:black;
 }
 #body{
 　text-align:center;
