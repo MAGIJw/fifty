@@ -18,16 +18,16 @@
   width: 300px;
   height: 300px;
 　font-size:15px;
-　color:#f9c81e;
+　color:yellow;
 　font-family:SimHei,Microsoft YaHei;
-　background-color:#fffaf3;
+　background-color:black;
 }
 .tab {
     font-family:SimHei,Microsoft YaHei;
     overflow: hidden;
     border: 1px solid white;
     background-color: black;
-    text-shadow:2px 2px 4px #FFFF33;
+    text-shadow:2px 2px 4px #FFFFFF;
 }
 .tab button {
     font-family:SimHei,Microsoft YaHei;
@@ -49,7 +49,7 @@
 .tabcontent {
     display: none;
     padding: 5px 9px;
-    text-shadow: 2px 2px 5px lightblue;
+    text-shadow: 2px 2px 5px ;
     background-color:black;
     font-family:SimHei,Microsoft YaHei;
 }
