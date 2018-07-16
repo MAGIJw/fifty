@@ -82,88 +82,88 @@ table.blueTable td:nth-child(even) {
 <table class="blueTable">
 <tbody>
 <tr>
-<td>cell1_1</td>
-<td>cell2_1</td>
-<td>cell3_1</td>
-<td>cell4_1</td>
-<td>cell5_1</td>
-<td>cell6_1</td>
-<td>cell7_1</td>
-<td>cell8_1</td>
-<td>cell9_1</td>
-<td>cell10_1</td>
-<td>cell11_1</td>
-<td>cell12_1</td>
+<td></td>
+<td>あ行</td>
+<td>か行</td>
+<td>さ行</td>
+<td>た行</td>
+<td>な行</td>
+<td>は行</td>
+<td>ま行</td>
+<td>や行</td>
+<td>ら行</td>
+<td>わ行</td>
+<td>鼻音</td>
 </tr>
 <tr>
-<td>cell1_2</td>
-<td>cell2_2</td>
-<td>cell3_2</td>
-<td>cell4_2</td>
-<td>cell5_2</td>
-<td>cell6_2</td>
-<td>cell7_2</td>
-<td>cell8_2</td>
-<td>cell9_2</td>
-<td>cell10_2</td>
-<td>cell11_2</td>
-<td>cell12_2</td>
+<td>あ段</td>
+<td>あ　a</td>
+<td>か ka</td>
+<td>さ ta</td>
+<td>た ta</td>
+<td>な na</td>
+<td>は ha</td>
+<td>ま ma</td>
+<td>や ya</td>
+<td>ら ra</td>
+<td>わ wa</td>
+<td>ん n</td>
 </tr>
 <tr>
-<td>cell1_3</td>
-<td>cell2_3</td>
-<td>cell3_3</td>
-<td>cell4_3</td>
-<td>cell5_3</td>
-<td>cell6_3</td>
-<td>cell7_3</td>
-<td>cell8_3</td>
-<td>cell9_3</td>
-<td>cell10_3</td>
-<td>cell11_3</td>
-<td>cell12_3</td>
+<td>い段</td>
+<td>い　i</td>
+<td>き ki</td>
+<td>し shi</td>
+<td>ち chi</td>
+<td>に ni</td>
+<td>ひ hi</td>
+<td>み mi</td>
+<td></td>
+<td>リ ri</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>cell1_4</td>
-<td>cell2_4</td>
-<td>cell3_4</td>
-<td>cell4_4</td>
-<td>cell5_4</td>
-<td>cell6_4</td>
-<td>cell7_4</td>
-<td>cell8_4</td>
-<td>cell9_4</td>
-<td>cell10_4</td>
-<td>cell11_4</td>
-<td>cell12_4</td>
+<td>う段</td>
+<td>う u</td>
+<td>く ku</td>
+<td>す su</td>
+<td>つ tsu</td>
+<td>ぬ mu</td>
+<td>ふ fu</td>
+<td>む mu</td>
+<td>ゆ yu</td>
+<td>る ru</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>cell1_5</td>
-<td>cell2_5</td>
-<td>cell3_5</td>
-<td>cell4_5</td>
-<td>cell5_5</td>
-<td>cell6_5</td>
-<td>cell7_5</td>
-<td>cell8_5</td>
-<td>cell9_5</td>
-<td>cell10_5</td>
-<td>cell11_5</td>
-<td>cell12_5</td>
+<td>え段</td>
+<td>え e</td>
+<td>け ke</td>
+<td>せ se</td>
+<td>て te</td>
+<td>ね ne</td>
+<td>へ he</td>
+<td>め me</td>
+<td></td>
+<td>れ re</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>cell1_6</td>
-<td>cell2_6</td>
-<td>cell3_6</td>
-<td>cell4_6</td>
-<td>cell5_6</td>
-<td>cell6_6</td>
-<td>cell7_6</td>
-<td>cell8_6</td>
-<td>cell9_6</td>
-<td>cell10_6</td>
-<td>cell11_6</td>
-<td>cell12_6</td>
+<td>お段</td>
+<td>お　o</td>
+<td>こ ko</td>
+<td>そ so</td>
+<td>と to</td>
+<td>の no</td>
+<td>ほ ho</td>
+<td>も mo</td>
+<td>よ yo</td>
+<td>ろ ro</td>
+<td>を wo</td>
+<td></td>
 </tr>
 </tbody>
 </table> 
@@ -171,12 +171,101 @@ table.blueTable td:nth-child(even) {
 
 <div id="片假名" class="tabcontent">
   <h3>片假名:用於標記外來語及特殊詞彙；模仿漢字的楷書、擷取一部分寫成</h3>
-   
+<table class="blueTable">
+<tbody>
+<tr>
+<td></td>
+<td>ア行</td>
+<td>カ行</td>
+<td>サ行</td>
+<td>タ行</td>
+<td>ナ行</td>
+<td>ハ行</td>
+<td>マ行</td>
+<td>ヤ行</td>
+<td>ラ行</td>
+<td>ワ行</td>
+<td>鼻音</td>
+</tr>
+<tr>
+<td>ア段</td>
+<td>ア　a</td>
+<td>カ ka</td>
+<td>サ ta</td>
+<td>タ ta</td>
+<td>ナ na</td>
+<td>ハ ha</td>
+<td>マ ma</td>
+<td>ヤ ya</td>
+<td>ラ ra</td>
+<td>ワ wa</td>
+<td>ン n</td>
+</tr>
+<tr>
+<td>イ段</td>
+<td>イ　i</td>
+<td>キ ki</td>
+<td>シ shi</td>
+<td>ス chi</td>
+<td>ニ ni</td>
+<td>ヒ hi</td>
+<td>ミ mi</td>
+<td></td>
+<td>リ ri</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ウ段</td>
+<td>ウ u</td>
+<td>ク ku</td>
+<td>ス su</td>
+<td>ツ tsu</td>
+<td>メ mu</td>
+<td>フ fu</td>
+<td>ム mu</td>
+<td>ユ yu</td>
+<td>ル ru</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>エ段</td>
+<td>エ e</td>
+<td>ケ ke</td>
+<td>セ se</td>
+<td>テ te</td>
+<td>ネ ne</td>
+<td>へ he</td>
+<td>メ me</td>
+<td></td>
+<td>レ re</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>オ段</td>
+<td>オ　o</td>
+<td>コ ko</td>
+<td>ソ so</td>
+<td>ト to</td>
+<td>ノ no</td>
+<td>ホ ho</td>
+<td>モ mo</td>
+<td>ヨ yo</td>
+<td>ロ ro</td>
+<td>ヲ wo</td>
+<td></td>
+</tr>
+</tbody>
+</table> 
+</div>
+
 </div>
 
 <div id="漢字" class="tabcontent">
   <h3>漢字使用上約五千字，交談、閱讀無礙至少需熟稔兩千字</h3>
-
+  <p>Coming Soon</p>
 </div>
 
 <script>
