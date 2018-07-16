@@ -99,7 +99,7 @@ table.blueTable td:nth-child(even) {
 <td>あ段</td>
 <td>あ　a</td>
 <td>か ka</td>
-<td>さ ta</td>
+<td>さ sa</td>
 <td>た ta</td>
 <td>な na</td>
 <td>は ha</td>
@@ -191,7 +191,7 @@ table.blueTable td:nth-child(even) {
 <td>ア段</td>
 <td>ア　a</td>
 <td>カ ka</td>
-<td>サ ta</td>
+<td>サ sa</td>
 <td>タ ta</td>
 <td>ナ na</td>
 <td>ハ ha</td>
