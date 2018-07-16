@@ -43,7 +43,7 @@
     background-color:#FFB3FF;
 }
 .tab button.active {
-    background-color:	#C10066;
+    background-color:	#FF00FF;
 }
 .tabcontent {
     display: none;
