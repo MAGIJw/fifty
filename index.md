@@ -34,7 +34,7 @@
 .tab {
     overflow: hidden;
     border: 1px solid #ccc;
-    background-color: #f1f1f1;
+    background-color: black;
 }
 .tab button {
     background-color: inherit;
@@ -56,11 +56,11 @@
     display: none;
     padding: 6px 12px;
     border: 1px solid #ccc;
+    text-shadow: 2px 2px 5px red;
     border-top: none;
 </style>
 </head>
 <body>
-  <div id="Header">五十音</div>
 <div id="Body"> </div>
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, '平假名')">平假名</button>
