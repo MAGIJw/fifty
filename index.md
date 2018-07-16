@@ -69,7 +69,10 @@ table.blueTable td:nth-child(even) {
   background: #D0E4F5;
 }
 h1 {
-    color: #FFCC22;
+    color: white;
+}
+.tablinks {
+ font-family:SimHei,Microsoft YaHei;
 }
 </style>
 </head>
