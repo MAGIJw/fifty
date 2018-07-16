@@ -127,7 +127,7 @@ a:link {
 <td>ひ hi</td>
 <td>み mi</td>
 <td></td>
-<td>リ   ri</td>
+<td>り<p>ri</p></td>
 <td></td>
 <td></td>
 </tr>
