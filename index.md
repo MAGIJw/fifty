@@ -18,7 +18,7 @@
   width: 300px;
   height: 300px;
 　font-size:15px;
-　color:yellow;
+　color:black;
 　font-family:SimHei,Microsoft YaHei;
 　background-color:black;
 }
@@ -39,7 +39,7 @@
     transition: 0.3s;
     font-size: 17px;
     color:#FF3EFF;
-    
+  text-shadow:2px 2px 4px #FFFFFF;
 }
 .tab button:hover {
     background-color:#FFB3FF;
