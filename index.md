@@ -1,7 +1,7 @@
 <html>
 <head>
 <style type="text/css">
-header{
+#header{
   font-family:SimHei,Microsoft YaHei;
 　width:360px;
 　height:80px;
@@ -11,7 +11,7 @@ header{
 　color:#fffaf3;
 　background-color:black;
 }
-body{
+#body{
 　text-align:center;
   text-shadow:2px 2px 4px #DDDDDD;
 　line-height:280px;
