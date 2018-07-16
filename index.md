@@ -8,7 +8,7 @@
 　text-align:center;
 　line-height:80px;
 　font-size:15px;
-　color:#fffaf3;
+　color:black;
 　background-color:black;
 }
 #body{
@@ -35,11 +35,11 @@
     border:#33FFFF;
     outline: none;
     cursor: pointer;
-    padding: 14px 16px;
+    padding: 12px 14px;
     transition: 0.3s;
     font-size: 17px;
     color:#FF3EFF;
-  text-shadow:2px 2px 4px #FFFFFF;
+  text-shadow:2px 2px 5px #FFFFFF;
 }
 .tab button:hover {
     background-color:#FFB3FF;
@@ -47,10 +47,10 @@
 .tab button.active {
     background-color:	#FFDD55;
 }
-.tabcontent {
+.tab content {
     display: none;
-    padding: 5px 9px;
-    text-shadow: 2px 2px 5px ;
+    padding: 8px 12px;
+    text-shadow:2px 2px 5px #FFFFFF;
     background-color:black;
     font-family:SimHei,Microsoft YaHei;
 }
