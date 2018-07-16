@@ -24,7 +24,7 @@
 }
 .tab {
     overflow: hidden;
-    border: 1px solid #ccc;
+    border: 1px solid white;
     background-color: black;
     font-family:SimHei,Microsoft YaHei;
 }
@@ -43,12 +43,12 @@
     background-color:lightblue;
 }
 .tab button.active {
-    background-color: orange;
+    background-color:	#77FF00;
 }
 .tabcontent {
     display: none;
-    padding: 6px 10px;
-    text-shadow: 2px 2px 5px blue;
+    padding: 5px 9px;
+    text-shadow: 2px 2px 5px lightblue;
     background-color:black;
     font-family:SimHei,Microsoft YaHei;
 }
