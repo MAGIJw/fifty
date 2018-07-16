@@ -1,7 +1,7 @@
 <html>
 <head>
 <style type="text/css">
-#header{
+header{
   font-family:SimHei,Microsoft YaHei;
 　width:360px;
 　height:80px;
@@ -11,7 +11,7 @@
 　color:#fffaf3;
 　background-color:black;
 }
-#body{
+body{
 　text-align:center;
   text-shadow:2px 2px 4px #DDDDDD;
 　line-height:280px;
@@ -108,11 +108,11 @@ table.blueTable td:nth-child(even) {
 <td>や ya</td>
 <td>ら ra</td>
 <td>わ wa</td>
-<td>ん <p>n</p></td>
+<td>ん  n</td>
 </tr>
 <tr>
 <td>い段</td>
-<td>い<p>i<p></td>
+<td>い i</td>
 <td>き ki</td>
 <td>し shi</td>
 <td>ち chi</td>
@@ -120,13 +120,13 @@ table.blueTable td:nth-child(even) {
 <td>ひ hi</td>
 <td>み mi</td>
 <td></td>
-<td>り<p>ri</p></td>
+<td>り ri</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>う段</td>
-<td>う  <p>u</p></td>
+<td>う u</td>
 <td>く ku</td>
 <td>す su</td>
 <td>つ tsu</td>
@@ -140,7 +140,7 @@ table.blueTable td:nth-child(even) {
 </tr>
 <tr>
 <td>え段</td>
-<td>え<p>e</p></td>
+<td>え e</td>
 <td>け ke</td>
 <td>せ se</td>
 <td>て te</td>
