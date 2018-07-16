@@ -13,7 +13,7 @@
 }
 #body{
 　text-align:center;
-  text-shadow:2px 2px 5px #444444;
+  text-shadow:2px 2px 5px ;
 　line-height:280px;
   width: 250px;
   height: 300px;
