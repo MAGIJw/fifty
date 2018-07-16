@@ -68,13 +68,6 @@ table.blueTable tbody td {
 table.blueTable td:nth-child(even) {
   background: #D0E4F5;
 }
-h1 {
-    color: white;
-}
-a:link {
- font-family:SimHei,Microsoft YaHei;
- color:black;
-}
 </style>
 </head>
 <body>
@@ -207,7 +200,7 @@ a:link {
 <td>ヤ ya</td>
 <td>ラ ra</td>
 <td>ワ wa</td>
-<td>ン <p>n</p></td>
+<td>ン n</td>
 </tr>
 <tr>
 <td>イ段</td>
@@ -219,13 +212,13 @@ a:link {
 <td>ヒ hi</td>
 <td>ミ mi</td>
 <td></td>
-<td>リ<p>ri</p></td>
+<td>リ ri</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>ウ段</td>
-<td>ウ<p>u</p></td>
+<td>ウ u</td>
 <td>ク ku</td>
 <td>ス su</td>
 <td>ツ tsu</td>
@@ -239,7 +232,7 @@ a:link {
 </tr>
 <tr>
 <td>エ段</td>
-<td>エ<p>e</p></td>
+<td>エ  e </td>
 <td>ケ ke</td>
 <td>セ se</td>
 <td>テ te</td>
