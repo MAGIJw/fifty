@@ -15,6 +15,8 @@
 　text-align:center;
   text-shadow:2px 2px 5px #20B2AA;
 　line-height:280px;
+  width: 200px;
+  height: 800px;
 　font-size:15px;
 　color:#f9c81e;
 　font-family:SimHei,Microsoft YaHei;
