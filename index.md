@@ -1,7 +1,7 @@
 <html>
 <head>
 <style type="text/css">
-#Header{
+#header{
 　width:360px;
 　height:80px;
 　text-align:center;
@@ -27,7 +27,7 @@
     overflow: hidden;
     border: 1px solid white;
     background-color: black;
-    text-shadow:2px 2px 5px #F5FFFA;
+    text-shadow:2px 2px 4px #FFFF33;
 }
 .tab button {
     font-family:SimHei,Microsoft YaHei;
