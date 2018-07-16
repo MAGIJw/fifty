@@ -22,16 +22,6 @@
 　font-family:SimHei,Microsoft YaHei;
 　background-color:#fffaf3;
 }
-#Footer{
-　width:360px;
-　height:80px;
-　text-align:center;
-　line-height:80px;
-　font-size:15px;
-　color:#fffaf3;
-　font-family:SimHei,Microsoft YaHei;
-　background-color:#f9c81e;
-}
 .tab {
     overflow: hidden;
     border: 1px solid #ccc;
