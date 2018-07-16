@@ -112,7 +112,7 @@ table.blueTable td:nth-child(even) {
 </tr>
 <tr>
 <td>い段</td>
-<td>い　i</td>
+<td><span>い</span><span>i</span></td>
 <td>き ki</td>
 <td>し shi</td>
 <td>ち chi</td>
@@ -269,8 +269,6 @@ table.blueTable td:nth-child(even) {
  </tbody>
 </table> 
 </div>
-</div>
-
 <script>
 function openCity(evt, cityName) {
     var i, tabcontent, tablinks;
