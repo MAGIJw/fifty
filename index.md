@@ -264,6 +264,11 @@ table.blueTable td:nth-child(even) {
 <div id="漢字" class="tabcontent">
   <h3>漢字使用上約五千字，交談、閱讀無礙至少需熟稔兩千字</h3>
   <h1>Coming Soon</h1>
+  <table class="blueTable">
+<tbody>
+ </tbody>
+</table> 
+</div>
 </div>
 
 <script>
