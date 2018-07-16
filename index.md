@@ -17,7 +17,6 @@
   width: 300px;
   height: 300px;
 　font-size:15px;
-　color:black;
 　font-family:SimHei,Microsoft YaHei;
 　background-color:black;
 }
