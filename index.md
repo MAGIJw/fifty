@@ -206,7 +206,7 @@ table.blueTable td:nth-child(even) {
 <td>イ　i</td>
 <td>キ ki</td>
 <td>シ shi</td>
-<td>ス chi</td>
+<td>チ chi</td>
 <td>ニ ni</td>
 <td>ヒ hi</td>
 <td>ミ mi</td>
