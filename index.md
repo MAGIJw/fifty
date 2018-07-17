@@ -199,7 +199,7 @@ table.blueTable td:nth-child(even) {
 <td>ヤ ya</td>
 <td>ラ ra</td>
 <td>ワ wa</td>
-<td>ン n</td>
+<td>ン<br>n</td>
 </tr>
 <tr>
 <td>イ段</td>
@@ -211,13 +211,13 @@ table.blueTable td:nth-child(even) {
 <td>ヒ hi</td>
 <td>ミ mi</td>
 <td></td>
-<td>リ ri</td>
+<td>リ<br>ri</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>ウ段</td>
-<td>ウ u</td>
+<td>ウ<br>u</td>
 <td>ク ku</td>
 <td>ス su</td>
 <td>ツ tsu</td>
@@ -231,7 +231,7 @@ table.blueTable td:nth-child(even) {
 </tr>
 <tr>
 <td>エ段</td>
-<td>エ  e </td>
+<td>エ<br>e</td>
 <td>ケ ke</td>
 <td>セ se</td>
 <td>テ te</td>
